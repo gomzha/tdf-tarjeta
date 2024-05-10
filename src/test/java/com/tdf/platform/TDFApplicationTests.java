@@ -1,10 +1,10 @@
-package com.tdf.tarjeta;
+package com.tdf.platform;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TdfApplicationTests {
+class TDFApplicationTests {
 
 	@Test
 	void contextLoads() {
